@@ -1,5 +1,5 @@
 .mainheader{
-	background-image:url('../mainbig.jpg');
+	background-image:url('../images/mainbig.jpg');
     background-repeat:no-repeat;
     background-size:cover;}
 @media only screen and (max-width:767px) and (min-device-width:320px)
